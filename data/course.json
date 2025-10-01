@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ]
+  ],
+  "legacy_uid": "fa8b18fc-1a19-88f8-25fb-8171198f2c36",
+  "instructors": {
+    "content": [
+      "bce7a37b-a587-f80e-c791-4306f8a8ee97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bd6d208f-ddee-4d88-7fe3-104cf59a166a",
+    "website": "5-067-crystal-structure-refinement-fall-2009"
+  },
+  "course_title": "Crystal Structure Refinement",
+  "hide_download": true,
+  "course_description": "This course in crystal structure refinement examines the practical aspects of crystal structure determination from data collection strategies to data reduction and basic and advanced refinement problems of organic and inorganic molecules.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.067",
+  "course_image_thumbnail": {
+    "content": "1dae532c-7f41-c15d-318f-c0c99c3717ab",
+    "website": "5-067-crystal-structure-refinement-fall-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "f3e85a08-7a68-41de-a27f-28928e5366a4",
+  "site_short_id": "5.067-fall-2009",
+  "site_url_path": "courses/5-067-crystal-structure-refinement-fall-2009",
+  "title": "Course Metadata"
+}
